@@ -1,0 +1,6 @@
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\bin\Debug\ThrowInCSharp.exe.config
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\bin\Debug\ThrowInCSharp.exe
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\bin\Debug\ThrowInCSharp.pdb
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\obj\Debug\ThrowInCSharp.csprojResolveAssemblyReference.cache
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\obj\Debug\ThrowInCSharp.exe
+F:\users\wise\documents\visual studio 2013\Projects\ThrowInCSharp\ThrowInCSharp\obj\Debug\ThrowInCSharp.pdb
